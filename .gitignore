@@ -1,0 +1,3 @@
+.ideagit rm --cached
+__pycache__
+venv
